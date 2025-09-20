@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "MoneyWise - Master Your Money Like Never Before",
   description:
     "Transform your financial journey with AI-powered insights, gamified learning, and community support. The Duolingo for personal finance.",
-  generator: "v0.app",
+
 }
 
 export default function RootLayout({
